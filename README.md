@@ -1,12 +1,10 @@
 # Pi-Sigma Neural Network Versus Classical Classifiers for Kecimen and Besni Raisin Variety Classification
 
-[![Open In Colab](https://google.com)](https://google.com)
 [![Dataset: UCI Raisin](https://shields.io)](https://uci.edu)
 
 This repository contains the source code and generated figures accompanying the manuscript:
 
-> **Pi-Sigma Neural Network Versus Classical Classifiers for Kecimen and Besni Raisin Variety Classification: A Leakage-Free Repeated Cross-Validation Study**  
-> Barka Piyinkir Ndahi, Ayuba Audu Balami, Abraham Ayegba Alfa and  Muhammad Bashir Abdullahi
+> **Pi-Sigma Neural Network Versus Classical Classifiers for Kecimen and Besni Raisin Variety Classification: A Leakage-Free Repeated Cross-Validation Study**
 
 ---
 
@@ -41,31 +39,16 @@ The study uses the public **Raisin Dataset** from the UCI Machine Learning Repos
 
 ---
 
-## Quick Start & Reproducibility
+## Reproducibility
 
-### Option 1: Run in Browser (Google Colab)
-Click the **Open in Colab** badge at the top of this page to inspect and run the full experiment directly in your browser without local installation.
-
-### Option 2: Run Locally
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com
-   cd psnn-raisin
-   ```
-
-2. **Install dependencies:**
+1. **Install dependencies:**
    The experiments were verified using Python 3.12 with the following core packages:
    ```bash
    pip install numpy scikit-learn scipy pandas matplotlib
    ```
 
-3. **Execute the script:**
+2. **Execute the script:**
    ```bash
    python psnn_raisin_revised.py
    ```
    The script automatically loads the dataset (locally or from the UCI repository), executes all 50 fold-runs, prints the summary tables and statistical comparisons, and saves the three output figures.
-
----
-
-
-```
