@@ -67,15 +67,5 @@ Click the **Open in Colab** badge at the top of this page to inspect and run the
 
 ---
 
-## Citation
 
-If you use this code or protocol in your research, please cite:
-
-```bibtex
-@article{ndahi2026psnn,
-  title={Pi-Sigma Neural Network Versus Classical Classifiers for Kecimen and Besni Raisin Variety Classification: A Leakage-Free Repeated Cross-Validation Study},
-  author={Ndahi, Barka Piyinkir and Salami, Fati Oiza and Alfa, Abraham Ayegba and Balami, Ayuba Audu},
-  year={2026},
-  note={Code available at: https://github.com}
-}
 ```
