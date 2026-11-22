@@ -6,7 +6,7 @@
 This repository contains the source code and generated figures accompanying the manuscript:
 
 > **Pi-Sigma Neural Network Versus Classical Classifiers for Kecimen and Besni Raisin Variety Classification: A Leakage-Free Repeated Cross-Validation Study**  
-> Barka Piyinkir Ndahi, Fati Oiza Salami, Abraham Ayegba Alfa, and Ayuba Audu Balami
+> Barka Piyinkir Ndahi, Ayuba Audu Balami, Abraham Ayegba Alfa and  Muhammad Bashir Abdullahi
 
 ---
 
